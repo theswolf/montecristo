@@ -1,0 +1,120 @@
+
+<img src="bullet01.jpg"> <a href="audio/montecristo001.mp3"><b>Capitolo  1 - L'arrivo a Marsiglia</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo002.mp3"><b>Capitolo  2 - Padre e figlio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo003.mp3"><b>Capitolo  3 - I catalani</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo004.mp3"><b>Capitolo  4 - Il complotto</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo005.mp3"><b>Capitolo  5 - Il pranzo del fidanzamento</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo006.mp3"><b>Capitolo  6 - Il sostituto procuratore del re</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo007.mp3"><b>Capitolo  7 - L'interrogatorio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo008.mp3"><b>Capitolo  8 - Il castello d'If</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo009.mp3"><b>Capitolo  9 - La sera del fidanzamento</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo010.mp3"><b>Capitolo 10 - Le tuileries</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo011.mp3"><b>Capitolo 11 - L'orco di Corsica</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo012.mp3"><b>Capitolo 12 - Padre e figlio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo013.mp3"><b>Capitolo 13 - I cento giorni</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo014.mp3"><b>Capitolo 14 - Il prigioniero furioso e il prigioniero pazzo</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo015.mp3"><b>Capitolo 15 - Il numero 34 e il numero 27</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo016.mp3"><b>Capitolo 16 - Uno scienziato italiano</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo017.mp3"><b>Capitolo 17 - La stanza dell' abate</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo018.mp3"><b>Capitolo 18 - Il tesoro</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo019.mp3"><b>Capitolo 19 - Il terzo attacco</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo020.mp3"><b>Capitolo 20 - Il cimitero del castello d'If</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo021.mp3"><b>Capitolo 21 - L'isola di Tiboulen</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo022.mp3"><b>Capitolo 22 - I contrabbandieri</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo023.mp3"><b>Capitolo 23 - L'isola di Montecristo</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo024.mp3"><b>Capitolo 24 - Abbagliato!</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo025.mp3"><b>Capitolo 25 - Lo sconosciuto</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo026.mp3"><b>Capitolo 26 - L'albergo di Caderousse</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo027.mp3"><b>Capitolo 27 - Il racconto</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo028.mp3"><b>Capitolo 28 - I registri delle prigioni</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo029.mp3"><b>Capitolo 29 - La casa Morrel</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo030.mp3"><b>Capitolo 30 - Il 5 settembre</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo031.mp3"><b>Capitolo 31 - Sinbad il marinaio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo032.mp3"><b>Capitolo 32 - Il risveglio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo033.mp3"><b>Capitolo 33 - I banditi romani</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo034.mp3"><b>Capitolo 34 - La mazzolata</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo035.mp3"><b>Capitolo 35 - Il Carnevale di Roma</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo036.mp3"><b>Capitolo 36 - Le catacombe di San Sebastiano</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo037.mp3"><b>Capitolo 37 - L'appuntamento</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo038.mp3"><b>Capitolo 38 - Gli invitati</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo039.mp3"><b>Capitolo 39 - La colazione</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo040.mp3"><b>Capitolo 40 - La presentazione</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo041.mp3"><b>Capitolo 41 - Il signor Bertuccio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo042.mp3"><b>Capitolo 42 - La casa di Auteuil</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo043.mp3"><b>Capitolo 43 - La vendetta</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo044.mp3"><b>Capitolo 44 - La pioggia di sangue</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo045.mp3"><b>Capitolo 45 - Credito illimitato</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo046.mp3"><b>Capitolo 46 - La pariglia grigia</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo047.mp3"><b>Capitolo 47 - Ideologia</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo048.mp3"><b>Capitolo 48 - Haydee</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo049.mp3"><b>Capitolo 49 - La famiglia Morrel</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo050.mp3"><b>Capitolo 50 - Piramo e Tisbe</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo051.mp3"><b>Capitolo 51 - Tossicologia</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo052.mp3"><b>Capitolo 52 - Roberto il diavolo</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo053.mp3"><b>Capitolo 53 - Giuochi di borsa</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo054.mp3"><b>Capitolo 54 - Il maggiore Cavalcanti</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo055.mp3"><b>Capitolo 55 - Andrea Cavalcanti</b></a><br></b></a><br>
+
+<img src="bullet01.jpg"> <a href="audio/montecristo056.mp3"><b>Capitolo 56 - L'orto abbandonato</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo057.mp3"><b>Capitolo 57 - Il signor Noirtier di Villefort</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo058.mp3"><b>Capitolo 58 - Il testamento</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo059.mp3"><b>Capitolo 59 - Il telegrafo</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo060.mp3"><b>Capitolo 60 - Il giardiniere, i ghiri e le pesche</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo061.mp3"><b>Capitolo 61 - I fantasmi</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo062.mp3"><b>Capitolo 62 - Il pranzo</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo063.mp3"><b>Capitolo 63 - Il mendicante</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo064.mp3"><b>Capitolo 64 - Scena coniugale</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo065.mp3"><b>Capitolo 65 - Idee matrimoniali</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo066.mp3"><b>Capitolo 66 - Il gabinetto del procuratore del Re</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo067.mp3"><b>Capitolo 67 - Un ballo d'estate</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo068.mp3"><b>Capitolo 68 - Le informazioni</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo069.mp3"><b>Capitolo 69 - Il ballo</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo070.mp3"><b>Capitolo 70 - Il pane e il sale</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo071.mp3"><b>Capitolo 71 - La signora di Saint Meran</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo072.mp3"><b>Capitolo 72 - La promessa</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo073.mp3"><b>Capitolo 73 - La tomba della famiglia Villefort</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo074.mp3"><b>Capitolo 74 - Il processo verbale</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo075.mp3"><b>Capitolo 75 - I progressi di Andrea Cavalcanti</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo076.mp3"><b>Capitolo 76 - Haydee</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo077.mp3"><b>Capitolo 77 - Ci scrivono da Giannina</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo078.mp3"><b>Capitolo 78 - La limonata</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo079.mp3"><b>Capitolo 79 - L'accusa</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo080.mp3"><b>Capitolo 80 - La camera di Caderousse</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo081.mp3"><b>Capitolo 81 - Il tentato furto</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo082.mp3"><b>Capitolo 82 - La mano d'Iddio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo083.mp3"><b>Capitolo 83 - Beauchamp</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo084.mp3"><b>Capitolo 84 - Il viaggio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo085.mp3"><b>Capitolo 85 - Il giudizio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo086.mp3"><b>Capitolo 86 - La provocazione</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo087.mp3"><b>Capitolo 87 - L'insulto</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo088.mp3"><b>Capitolo 88 - La notte</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo089.mp3"><b>Capitolo 89 - Sul terreno</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo090.mp3"><b>Capitolo 90 - Madre e figlio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo091.mp3"><b>Capitolo 91 - Il suicidio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo092.mp3"><b>Capitolo 92 - Valentina</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo093.mp3"><b>Capitolo 93 - La confessione</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo094.mp3"><b>Capitolo 94 - Padre e figlia</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo095.mp3"><b>Capitolo 95 - Il contratto</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo096.mp3"><b>Capitolo 96 - Verso il Belgio</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo097.mp3"><b>Capitolo 97 - All'albergo della campana e della bottiglia</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo098.mp3"><b>Capitolo 98 - La legge</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo099.mp3"><b>Capitolo 99 - L'apparizione</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo100.mp3"><b>Capitolo 100 - L'avvelenatrice</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo101.mp3"><b>Capitolo 101 - Valentina</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo102.mp3"><b>Capitolo 102 - Massimiliano</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo103.mp3"><b>Capitolo 103 - La firma di Danglars</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo104.mp3"><b>Capitolo 104 - Il cimitero</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo105.mp3"><b>Capitolo 105 - La spartizione</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo106.mp3"><b>Capitolo 106 - La fossa dei leoni</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo107.mp3"><b>Capitolo 107 - Il giudice</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo108.mp3"><b>Capitolo 108 - Alle assise</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo109.mp3"><b>Capitolo 109 - L'espiazione</b></a><br>
+<img src="bullet01.jpg" data-pin-nopin="true"> <a href="audio/montecristo110.mp3"><b>Capitolo 110 - La partenza</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo111.mp3"><b>Capitolo 111 - Il passato</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo112.mp3"><b>Capitolo 112 - Beppino</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo113.mp3"><b>Capitolo 113 - Pranzo a prezzo fisso</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo114.mp3"><b>Capitolo 114 - Il perdono</b></a><br>
+<img src="bullet01.jpg"> <a href="audio/montecristo115.mp3"><b>Capitolo 115 - Il cinque ottobre</b></a><br>
+</b></a><br>
+</font>
+</td>

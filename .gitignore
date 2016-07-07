@@ -1,0 +1,7 @@
+out*
+.idea
+*.pyc
+dist
+conte.egg-info
+dist
+.DS_Store
